@@ -1,0 +1,662 @@
+/home/craven/TodoApiSS/bin/Debug/net9.0/appsettings.Development.json
+/home/craven/TodoApiSS/bin/Debug/net9.0/appsettings.json
+/home/craven/TodoApiSS/bin/Debug/net9.0/TodoApiSS.staticwebassets.endpoints.json
+/home/craven/TodoApiSS/bin/Debug/net9.0/TodoApiSS
+/home/craven/TodoApiSS/bin/Debug/net9.0/TodoApiSS.deps.json
+/home/craven/TodoApiSS/bin/Debug/net9.0/TodoApiSS.runtimeconfig.json
+/home/craven/TodoApiSS/bin/Debug/net9.0/TodoApiSS.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/TodoApiSS.pdb
+/home/craven/TodoApiSS/bin/Debug/net9.0/Azure.Core.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Azure.Identity.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Humanizer.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.AspNetCore.OpenApi.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Bcl.AsyncInterfaces.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Build.Locator.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.CodeAnalysis.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Data.SqlClient.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Abstractions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Design.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.Relational.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.EntityFrameworkCore.SqlServer.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Caching.Abstractions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Caching.Memory.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Configuration.Abstractions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.DependencyModel.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Logging.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Logging.Abstractions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Options.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Extensions.Primitives.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Identity.Client.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Identity.Client.Extensions.Msal.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.IdentityModel.Abstractions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.IdentityModel.Logging.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.IdentityModel.Tokens.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.OpenApi.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.SqlServer.Server.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Microsoft.Win32.SystemEvents.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Mono.TextTemplating.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Swashbuckle.AspNetCore.Swagger.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerGen.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/Swashbuckle.AspNetCore.SwaggerUI.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.ClientModel.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.CodeDom.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Composition.AttributedModel.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Composition.Convention.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Composition.Hosting.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Composition.Runtime.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Composition.TypedParts.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Configuration.ConfigurationManager.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Drawing.Common.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.IdentityModel.Tokens.Jwt.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Memory.Data.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Runtime.Caching.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Security.Cryptography.ProtectedData.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Security.Permissions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/System.Windows.Extensions.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/cs/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/de/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/es/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/fr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/it/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ja/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ko/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pl/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/pt-BR/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/ru/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/unix/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Data.SqlClient.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win-arm/native/Microsoft.Data.SqlClient.SNI.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win-arm64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win-x64/native/Microsoft.Data.SqlClient.SNI.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win-x86/native/Microsoft.Data.SqlClient.SNI.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win/lib/net6.0/Microsoft.Win32.SystemEvents.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/unix/lib/net6.0/System.Drawing.Common.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Drawing.Common.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Runtime.Caching.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Security.Cryptography.ProtectedData.dll
+/home/craven/TodoApiSS/bin/Debug/net9.0/runtimes/win/lib/net6.0/System.Windows.Extensions.dll
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.csproj.AssemblyReference.cache
+/home/craven/TodoApiSS/obj/Debug/net9.0/rpswa.dswa.cache.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.GeneratedMSBuildEditorConfig.editorconfig
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.AssemblyInfoInputs.cache
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.AssemblyInfo.cs
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.csproj.CoreCompileInputs.cache
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.MvcApplicationPartsAssemblyInfo.cs
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.MvcApplicationPartsAssemblyInfo.cache
+/home/craven/TodoApiSS/obj/Debug/net9.0/rjimswa.dswa.cache.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/rjsmrazor.dswa.cache.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/rjsmcshtml.dswa.cache.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/scopedcss/bundle/TodoApiSS.styles.css
+/home/craven/TodoApiSS/obj/Debug/net9.0/staticwebassets.build.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/staticwebassets.build.json.cache
+/home/craven/TodoApiSS/obj/Debug/net9.0/staticwebassets.development.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/staticwebassets.build.endpoints.json
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.csproj.Up2Date
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.dll
+/home/craven/TodoApiSS/obj/Debug/net9.0/refint/TodoApiSS.dll
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.pdb
+/home/craven/TodoApiSS/obj/Debug/net9.0/TodoApiSS.genruntimeconfig.cache
+/home/craven/TodoApiSS/obj/Debug/net9.0/ref/TodoApiSS.dll
+D:\TodoApiSS\bin\Debug\net9.0\appsettings.Development.json
+D:\TodoApiSS\bin\Debug\net9.0\appsettings.json
+D:\TodoApiSS\bin\Debug\net9.0\TodoApiSS.staticwebassets.endpoints.json
+D:\TodoApiSS\bin\Debug\net9.0\TodoApiSS.exe
+D:\TodoApiSS\bin\Debug\net9.0\TodoApiSS.deps.json
+D:\TodoApiSS\bin\Debug\net9.0\TodoApiSS.runtimeconfig.json
+D:\TodoApiSS\bin\Debug\net9.0\TodoApiSS.dll
+D:\TodoApiSS\bin\Debug\net9.0\TodoApiSS.pdb
+D:\TodoApiSS\bin\Debug\net9.0\Azure.Core.dll
+D:\TodoApiSS\bin\Debug\net9.0\Azure.Identity.dll
+D:\TodoApiSS\bin\Debug\net9.0\Humanizer.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\TodoApiSS\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\TodoApiSS\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\TodoApiSS\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TodoApiSS\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TodoApiSS\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.ClientModel.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.CodeDom.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Memory.Data.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\TodoApiSS\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\TodoApiSS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TodoApiSS\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.csproj.AssemblyReference.cache
+D:\TodoApiSS\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.AssemblyInfoInputs.cache
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.AssemblyInfo.cs
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.csproj.CoreCompileInputs.cache
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.MvcApplicationPartsAssemblyInfo.cs
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.MvcApplicationPartsAssemblyInfo.cache
+D:\TodoApiSS\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\TodoApiSS\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\TodoApiSS\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\TodoApiSS\obj\Debug\net9.0\scopedcss\bundle\TodoApiSS.styles.css
+D:\TodoApiSS\obj\Debug\net9.0\staticwebassets.build.json
+D:\TodoApiSS\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\TodoApiSS\obj\Debug\net9.0\staticwebassets.development.json
+D:\TodoApiSS\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.csproj.Up2Date
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.dll
+D:\TodoApiSS\obj\Debug\net9.0\refint\TodoApiSS.dll
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.pdb
+D:\TodoApiSS\obj\Debug\net9.0\TodoApiSS.genruntimeconfig.cache
+D:\TodoApiSS\obj\Debug\net9.0\ref\TodoApiSS.dll
+D:\TodoApiSS2\bin\Debug\net9.0\appsettings.Development.json
+D:\TodoApiSS2\bin\Debug\net9.0\appsettings.json
+D:\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.staticwebassets.endpoints.json
+D:\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.exe
+D:\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.deps.json
+D:\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.runtimeconfig.json
+D:\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.dll
+D:\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.pdb
+D:\TodoApiSS2\bin\Debug\net9.0\Azure.Core.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Azure.Identity.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Humanizer.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.ClientModel.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.CodeDom.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Memory.Data.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.csproj.AssemblyReference.cache
+D:\TodoApiSS2\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.AssemblyInfoInputs.cache
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.AssemblyInfo.cs
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.csproj.CoreCompileInputs.cache
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.MvcApplicationPartsAssemblyInfo.cs
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.MvcApplicationPartsAssemblyInfo.cache
+D:\TodoApiSS2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\TodoApiSS2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\TodoApiSS2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\TodoApiSS2\obj\Debug\net9.0\scopedcss\bundle\TodoApiSS.styles.css
+D:\TodoApiSS2\obj\Debug\net9.0\staticwebassets.build.json
+D:\TodoApiSS2\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\TodoApiSS2\obj\Debug\net9.0\staticwebassets.development.json
+D:\TodoApiSS2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.csproj.Up2Date
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.dll
+D:\TodoApiSS2\obj\Debug\net9.0\refint\TodoApiSS.dll
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.pdb
+D:\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.genruntimeconfig.cache
+D:\TodoApiSS2\obj\Debug\net9.0\ref\TodoApiSS.dll
+D:\TodoApiSS2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\appsettings.Development.json
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\appsettings.json
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.staticwebassets.endpoints.json
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.exe
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.deps.json
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.runtimeconfig.json
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\TodoApiSS.pdb
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Azure.Core.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Azure.Identity.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Humanizer.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Build.Locator.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.CodeAnalysis.Workspaces.MSBuild.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Data.SqlClient.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Abstractions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Caching.Memory.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.DependencyModel.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Logging.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Logging.Abstractions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Options.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Extensions.Primitives.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Identity.Client.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.OpenApi.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.SqlServer.Server.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Microsoft.Win32.SystemEvents.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Mono.TextTemplating.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.ClientModel.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.CodeDom.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Composition.AttributedModel.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Composition.Convention.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Composition.Hosting.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Composition.Runtime.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Composition.TypedParts.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Configuration.ConfigurationManager.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Drawing.Common.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Memory.Data.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Runtime.Caching.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Security.Permissions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\System.Windows.Extensions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\cs\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\de\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\es\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\fr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\it\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ja\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ko\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pl\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\ru\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\tr\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.MSBuild.BuildHost.resources.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\TRANING HARI KE 8\TodoApiSS2\bin\Debug\net9.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.csproj.AssemblyReference.cache
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\rpswa.dswa.cache.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.GeneratedMSBuildEditorConfig.editorconfig
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.AssemblyInfoInputs.cache
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.AssemblyInfo.cs
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.csproj.CoreCompileInputs.cache
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.MvcApplicationPartsAssemblyInfo.cs
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.MvcApplicationPartsAssemblyInfo.cache
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\rjimswa.dswa.cache.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\scopedcss\bundle\TodoApiSS.styles.css
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\staticwebassets.build.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\staticwebassets.build.json.cache
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\staticwebassets.development.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.csproj.Up2Date
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.dll
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\refint\TodoApiSS.dll
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.pdb
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\TodoApiSS.genruntimeconfig.cache
+D:\TRANING HARI KE 8\TodoApiSS2\obj\Debug\net9.0\ref\TodoApiSS.dll
